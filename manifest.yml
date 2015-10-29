@@ -1,0 +1,5 @@
+---
+applications:
+- name: weather-service
+  memory: 512M
+  path: build/libs/test-service-0.0.1-SNAPSHOT.jar
